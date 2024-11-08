@@ -25,6 +25,7 @@
 	 - DHT sensor library for ESPx by beegee_tokyo
 	 - ArduinoJson by Benoit Blanchon
 	 - PubSubClient by Nick O'Leary
+- SideBar > Boards Manager > Download esp32 by Espressif Systems
 - Clone the GitHub Repo: `git clone https://github.com/Nycto-c05/esp32_aws/`
 - Make sure the sketch.ino and secrets.h are in the same folder
 - Update the secrets.h file with your credentials
