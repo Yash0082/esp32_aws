@@ -4,7 +4,7 @@
 #include <pgmspace.h>
 
 #define SECRET
-#define THINGNAME "test"
+#define THINGNAME "test1"
 
 const char WIFI_SSID[] = "PUT UR WIFI SSID";
 const char WIFI_PASSWORD[] = "WIFI KA PASSWORD";
